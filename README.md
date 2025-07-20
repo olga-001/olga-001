@@ -66,6 +66,7 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 
 ### 📝 Resume:
 **Prompt Engineer**  
+- [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)  
 → *Coming soon*
 
 **Risk Data Analyst**  

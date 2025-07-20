@@ -32,6 +32,7 @@
 
 📁 **Prompt Engineering**  
 _Ассистенты, промты, эксперименты с LLM_  
+- [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
 → *в процессе публикации*
 
 📁 **Data Analytics Projects**  

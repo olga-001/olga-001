@@ -20,7 +20,7 @@
 
 ### 📝 Резюме:
 **Prompt Engineer**  
-→ *в процессе публикации*  
+- [Резюме на career.habr.com](https://career.habr.com/olga_001)  
 
 **Risk Data Analyst**  
 - [Резюме на hh.ru](https://hh.ru/resume/f12571baff0e9317d00039ed1f6a7652756a50)  
@@ -66,8 +66,7 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 
 ### 📝 Resume:
 **Prompt Engineer**  
-- [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)  
-→ *Coming soon*
+- [CV on career.habr.com](https://career.habr.com/olga_001)
 
 **Risk Data Analyst**  
 - [CV on hh.ru](https://hh.ru/resume/f12571baff0e9317d00039ed1f6a7652756a50)  
@@ -78,7 +77,7 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 ### 📂 Portfolio of Projects:
 
 📁 **Prompt Engineering**  
-_Assistants, prompts, and experiments with LLMs_  
+- [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)  
 → *Coming soon*
 
 📁 **Data Analytics Projects**  

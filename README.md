@@ -33,7 +33,8 @@
 📁 **Prompt Engineering**  
 _Ассистенты, промты, эксперименты с LLM_  
 - [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
-- [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)  
+- [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)
+- [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)  
 → *в процессе публикации*
 
 📁 **Data Analytics Projects**  
@@ -79,7 +80,8 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 
 📁 **Prompt Engineering**  
 - [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
-- [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)  
+- [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)
+- [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)  
 → *Coming soon*
 
 📁 **Data Analytics Projects**  

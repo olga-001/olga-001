@@ -82,7 +82,8 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 📁 **Prompt Engineering**  
 - [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
 - [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)
-- [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)  
+- [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)
+- [Data Manager Assistant](https://github.com/olga-001/data-manager-assistant)  
 → *Coming soon*
 
 📁 **Data Analytics Projects**  

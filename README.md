@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 Что сейчас делаю:
-- Участвую в AI-проекте: разрабатываю GPT-ассистента для автоматизации заполнения базы данных  
-- Завершаю обучение по промт-инжинирингу  
-- Готовлюсь к запуску собственных мини-проектов и публикации в открытом доступе  
+- Разрабатываю и публикую собственные AI-инструменты для автоматизации финансового анализа и бизнес-процессов.
+- Экспериментирую с LLM-архитектурами, RAG и интеграциями через API.
+- Открыта к сотрудничеству и предложениям в области AI, финтеха и аналитики данных.  
 
 ---
 
@@ -61,9 +61,9 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 ---
 
 ### 🚀 What I'm working on:
-- Participating in an AI project: developing a GPT-based assistant to automate database input  
-- Finishing a prompt engineering training program  
-- Preparing to release personal projects and publish them publicly  
+- Building and refining AI-powered tools for financial analysis and workflow automation.
+- Working with LLM-based architectures, RAG, and structured prompt systems.  
+- Open to collaboration and opportunities in AI, fintech, and risk analytics.  
 
 ---
 

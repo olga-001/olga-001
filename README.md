@@ -35,7 +35,8 @@ _Ассистенты, промты, эксперименты с LLM_
 - [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
 - [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)
 - [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)
-- [Data Manager Assistant](https://github.com/olga-001/data-manager-assistant)  
+- [Data Manager Assistant](https://github.com/olga-001/data-manager-assistant)
+- [CBR Loan Loss Provisions Copilot](https://github.com/olga-001/cbr-llp-copilot)  
 → *в процессе публикации*
 
 📁 **Data Analytics Projects**  
@@ -83,7 +84,8 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 - [GPT Location Assistant](https://github.com/olga-001/gpt-location-assistant)
 - [GPT Data Entry Assistant](https://github.com/olga-001/gpt-data-entry-assistant)
 - [GPT-Market-Analysis-Tool](https://github.com/olga-001/gpt-market-analysis-tool)
-- [Data Manager Assistant](https://github.com/olga-001/data-manager-assistant)  
+- [Data Manager Assistant](https://github.com/olga-001/data-manager-assistant)
+- [CBR Loan Loss Provisions Copilot](https://github.com/olga-001/cbr-llp-copilot)  
 → *Coming soon*
 
 📁 **Data Analytics Projects**  

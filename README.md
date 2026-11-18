@@ -23,7 +23,7 @@
 - [Резюме на career.habr.com](https://career.habr.com/olga_001)  
 
 **Risk Data Analyst**  
-- [Резюме на hh.ru](https://hh.ru/resume/f12571baff0e9317d00039ed1f6a7652756a50)  
+- [Резюме на hh.ru](https://hh.ru/resume/5d2f25afff0f65ea990039ed1f784974674254) 
 - [LinkedIn профиль](https://www.linkedin.com/in/olga-bychkova-740b638b/)
 
 ---
@@ -73,7 +73,7 @@ I’m a specialist with a background in data analytics and banking credit risk. 
 - [CV on career.habr.com](https://career.habr.com/olga_001)
 
 **Risk Data Analyst**  
-- [CV on hh.ru](https://hh.ru/resume/f12571baff0e9317d00039ed1f6a7652756a50)  
+- [CV on hh.ru](https://hh.ru/resume/5d2f25afff0f65ea990039ed1f784974674254)  
 - [LinkedIn profile](https://www.linkedin.com/in/olga-bychkova-740b638b/)
 
 ---
